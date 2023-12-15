@@ -33,7 +33,7 @@ h1 {
 }
 
 body {
-  background-image: url("https://raw.githubusercontent.com/arpit456jain/Amazing-Js-Projects/master/Candy%20Crush/utils/bg.png");
+  background-image: url("./images/bg.png");
   max-width: 100vh;
   display: flex;
 }
