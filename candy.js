@@ -214,6 +214,6 @@ function candyCrushGame() {
     checkColumnForFour();
     checkRowForThree();
     checkColumnForThree();
-    moveIntoSquareBelow();
+    setTimeout(moveIntoSquareBelow, 100);
   }, 100);
 }
